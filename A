@@ -4,4 +4,8 @@
 5 LR2 PortableGIT
 new line 1 LR1 GUIGIT
 new line 2 LR1 GUIGIT
+<<<<<<< HEAD
 new test 1 LR2 PortableGIT
+=======
+new test start 1 LR1 GUIGIT
+>>>>>>> 9dec4ff6629c36ce41fd006c17cdcc274bd1577f
