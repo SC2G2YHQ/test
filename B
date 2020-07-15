@@ -1,1 +1,2 @@
 first line in branch b1
+first line in branch b2 -> b2 fork from b1
